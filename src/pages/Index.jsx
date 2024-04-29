@@ -29,7 +29,7 @@ const Index = () => {
         <Text fontSize="sm" color="gray.600">
           © 2023 Fortnite Online. All rights reserved.
         </Text>
-        <Link href="https://www.epicgames.com/fortnite/en-US/home" isExternal color="teal.500">
+        <Link href="https://www.fortnite.com" isExternal color="teal.500">
           Official Fortnite Site
         </Link>
       </VStack>
